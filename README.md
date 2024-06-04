@@ -1,6 +1,6 @@
 # Grad-SVS
 This project performs a Korean singing voice synthesis task using a diffusion model, specifically based on Grad-TTS.
-
+More details and demo at [here](https://jihoojung0106.github.io/posts/Grad_SVS/)
 
 ## Installation
 
