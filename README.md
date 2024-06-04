@@ -73,10 +73,4 @@ You can also perform *interactive inference* by running Jupyter Notebook `infere
 * Monotonic Alignment Search algorithm is used for unsupervised duration modelling, official github repository: [link](https://github.com/jaywalnut310/glow-tts).
 * Phonemization utilizes CMUdict, official github repository: [link](https://github.com/cmusphinx/cmudict).
 # temo
-# Grad-SVS
-# Grad-SVS
-# Grad-SVS
-# Grad_SVS
-# Grad-SVS
-# Grad-SVS
-# Grad-SVS
+
