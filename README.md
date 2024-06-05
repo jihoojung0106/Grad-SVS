@@ -47,8 +47,8 @@ train.py
 ```
 ## References
 
-* HiFi-GAN model is used as vocoder, official github repository: [link](https://github.com/jik876/hifi-gan).
-* Grad-TTS : [link](https://github.com/neosapience/mlp-singer).
-* Data preprocessing: [link](https://github.com/neosapience/mlp-singer).
+* Vocoder : [HiFi-GAN](https://github.com/jik876/hifi-gan).
+* Architecture : [Grad-TTS](https://github.com/neosapience/mlp-singer).
+* Data preprocessing: [MLP-Singer](https://github.com/neosapience/mlp-singer).
 
 
