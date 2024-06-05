@@ -36,14 +36,16 @@ from the root directory. This will create `data_preprocess/bin` that contains bi
 
 ## Inference
 
+ex) 
 ```bash
-my_inference.py
+python my_inference.py --song kr001a --check_points logs/0604/grad_7.pt
 ```
+Pretrained model checkpoint for Grad-SVS can be found [here](https://drive.google.com/file/d/1DTIP7MahxbCh5rcRf3LbmijSsn0cRig5/view?usp=drive_link)
 To generate audio files with the trained model checkpoint, [download](https://drive.google.com/drive/folders/1YuOoV3lO2-Hhn1F2HJ2aQ4S0LC1JdKLd) the HiFi-GAN checkpoint along with its configuration file and place them in `hifi-gan-mlp`. 
 
 ## Training
 ```bash
-train.py
+python train.py
 ```
 ## References
 
